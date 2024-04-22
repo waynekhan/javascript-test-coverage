@@ -11,5 +11,5 @@ npm install && \
     -Dsonar.login=$SONAR_TOKEN \
     -Dsonar.sources=src \
     -Dsonar.tests=tests \
-  -X
+    -X
 ```
