@@ -1,0 +1,9 @@
+# Coverage
+coverage/
+*.lcov
+
+# Dependencies
+node_modules/
+
+# sonar-scanner
+.scannerwork/
